@@ -1,0 +1,169 @@
+h1 {
+	text-align: center;
+	font-size: 48px;
+}
+h3 {
+	text-align: center;
+	opacity: 0.5;
+}
+
+body {
+	background-color: grey;
+	font-family: 'Questrial', sans-serif;
+
+}
+#main {
+	font-family: 'Questrial', sans-serif;
+    color: #ffffff;
+
+}
+#kop {
+	font-family: 'Questrial', sans-serif;
+	border-radius: 25px 25px 0px 0px;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    background-image: linear-gradient(to bottom, #3399ff, grey);
+    color: #ffffff;
+}
+#quote {
+	font-family: 'Questrial', sans-serif;
+    padding-top: 5px;
+    line-height: 1.5;
+    padding-bottom: 5px;
+}
+
+#image {
+	display: block;
+	max-width: 840px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 77%;
+    border-radius: 25px 25px 0px 0px;
+}
+
+#img-caption {
+	display: block;
+    margin-left: auto;
+    margin-top: 10px;
+    margin-right: auto;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	background-color: white;
+  max-width: 840px;
+	color: #000000;  
+	width: 77%;
+	text-align: center;
+}
+#img-caption-box-inside {
+	font-family: 'Questrial', sans-serif;
+	line-height: 1.5;
+	display: block;
+  max-width: 840px;
+    margin-left: auto;
+    margin-top: 10px;
+    margin-right: auto;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	background-color: white;
+	color: #000000;  
+	width: 77%;
+	text-align: center;
+}
+
+#midden {
+	font-family: 'Questrial', sans-serif;
+	display: block;
+  max-width: 840px;
+    margin-left: auto;
+    margin-top: -10px;
+    margin-right: auto;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	background-color: white;
+	color: #000000;  
+	width: 77%;
+	text-align: center;
+}
+#tribute-info {
+	font-family: 'Questrial', sans-serif;
+	line-height: 1.5;
+	margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 40px;
+    margin-left: 40px;
+	background-color: white;
+	color: #000000;  
+	text-align: center;
+}
+#tijdlijn {
+	font-family: 'Questrial', sans-serif;
+	display: block;
+  max-width: 840px;
+    margin-left: auto;
+    margin-top: 10px;
+    margin-right: auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: white;
+	color: #000000;  
+	width: 77%;
+
+}
+#tijdlijn-txt {
+	font-family: 'Questrial', sans-serif;
+	line-height: 1.5;
+	margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 40px;
+    margin-left: 40px;
+	background-color: white;
+	color: #000000;  
+	text-align: center;
+}
+#tabel {
+	font-family: 'Questrial', sans-serif;
+	line-height: 1.5;	
+	background-color: white;
+	color: #000000;  
+	text-align: center;
+}
+
+
+#footer {
+	font-family: 'Questrial', sans-serif;
+	display: block;
+  max-width: 840px;
+    margin-left: auto;
+    margin-top: 10px;
+    margin-right: auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #D3D3D3;
+	color: #000000;  
+	width: 77%;
+	text-align: center;
+	border-radius: 0px 0px 25px 25px;
+}
+#tribute-blink {
+	font-family: 'Questrial', sans-serif;
+	line-height: 1.5;
+	margin-top: 20px;
+    margin-bottom: 10px;
+    margin-right: 40px;
+    margin-left: 40px;
+	background-color: #D3D3D3;
+	color: #000000;  
+	text-align: center;
+}
+#tribute-plink {
+	font-family: 'Questrial', sans-serif;
+	line-height: 1.5;
+	padding-top: 20px;
+	margin-top: 20px;
+    margin-bottom: 10px;
+    margin-right: 40px;
+    margin-left: 40px;
+	background-color: #D3D3D3;
+	color: #000000;  
+	text-align: center;
+}
